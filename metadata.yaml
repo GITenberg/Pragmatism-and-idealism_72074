@@ -1,0 +1,25 @@
+_repo: Pragmatism-and-idealism_72074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caldwell, William
+    gutenberg_agent_id: '56527'
+    url: http://www.gutenberg.org/2009/agents/56527
+description: ''
+gutenberg_issued: '2023-11-08'
+identifiers:
+  gutenberg: '72074'
+language: en
+pgterms:marc905: 20160705083104caldwell
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Chris Curnow and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bAdam and Charles Black, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pragmatism and idealism
+url: http://www.gutenberg.org/ebooks/72074
