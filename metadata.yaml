@@ -1,11 +1,16 @@
 _repo: Pragmatism-and-idealism_72074
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72074-h/images/cover.jpg
 creator:
   author:
     agent_name: Caldwell, William
     gutenberg_agent_id: '56527'
     url: http://www.gutenberg.org/2009/agents/56527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72074#Pragmatism-and-idealism
 gutenberg_issued: '2023-11-08'
 identifiers:
   gutenberg: '72074'
